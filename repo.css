@@ -23,3 +23,13 @@
 		margin-left: 25px;
 		color: green;
 	}
+
+	#container ul{
+		display: inline;
+		margin-left: 25px;
+	}
+
+		#container li{
+			display: inline-block;
+			margin-left: 40px;
+		}
