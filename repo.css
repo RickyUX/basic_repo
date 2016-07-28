@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container{
+	width: 550px;
+	padding: 25px;
+
+}
+
+	#container h1{
+		margin-left: 25px;
+		color: blue;
+	}
+
+	#container p{
+		margin-left: 25px;
+		color: red;
+	}
+
+	#container h2{
+		margin-left: 25px;
+		color: green;
+	}
